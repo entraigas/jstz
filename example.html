@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><title>jstz example</title></head>
+<body>
+<script type="text/javascript" src="jstz.js"></script>
+<script language="JavaScript">
+  var tz = jstz(), text = '';
+	text += '<br>Timezone name: ' + tz.timezone_name;
+	text += '<br>Uses DST: ' + tz.uses_dst ;
+	text += '<br>UTC offset: ' + tz.utc_offset;
+	text += '<br>UTC name: ' + tz.utc_name;
+	text += '<br>Hemisphere: ' + tz.hemisphere;
+	document.write(text);
+</script>
+</body>	
+</html>
