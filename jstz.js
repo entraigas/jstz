@@ -145,7 +145,7 @@ jstz.olson = {
 	 * Thirdly an optional 's' signifies that the timezone is in the southern hemisphere
 	 */
 	timezones : {
-		'-720'     : ['Etc/GMT+12',''],
+		'-720'     : ['Etc/GMT-12',''],
 		'-660,0'   : ['Pacific/Pago_Pago','n'],
 		'-600,1'   : ['America/Adak','n'],
 		'-660,1,s' : ['Pacific/Apia','s'],
