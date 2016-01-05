@@ -243,7 +243,6 @@ jstz.olson = {
 		'Asia/Yerevan' : ['Asia/Yerevan', 'Asia/Baku'],
 		'Pacific/Auckland' : ['Pacific/Auckland', 'Pacific/Fiji'],
 		'America/Los_Angeles' : ['America/Los_Angeles', 'America/Santa_Isabel'],
-		'America/New_York' : ['America/Havana', 'America/New_York'],
 		'America/Halifax' : ['America/Goose_Bay', 'America/Halifax'],
 		'America/Godthab' : ['America/Miquelon', 'America/Godthab']
 	},
@@ -264,8 +263,6 @@ jstz.olson = {
 		'America/Sao_Paulo' : new Date(2011, 9, 16, 5, 0, 0, 0),
 		'America/Los_Angeles' : new Date(2011, 2, 13, 8, 0, 0, 0),
 		'America/Santa_Isabel' : new Date(2011, 3, 5, 8, 0, 0, 0),
-		'America/Havana' : new Date(2011, 2, 13, 2, 0, 0, 0),
-		'America/New_York' : new Date(2011, 2, 13, 7, 0, 0, 0),
 		'Asia/Gaza' : new Date(2011, 2, 26, 23, 0, 0, 0),
 		'Asia/Beirut' : new Date(2011, 2, 27, 1, 0, 0, 0),
 		'Europe/Minsk' : new Date(2011, 2, 27, 3, 0, 0, 0),
