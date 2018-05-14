@@ -1,0 +1,23 @@
+{
+  "name": "jstz",
+  "version": "0.0.1",
+  "description": "Javascript function useful to detect the browser timezone",
+  "main": "jstz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entraigas/jstz.git"
+  },
+  "keywords": [
+    "jstz",
+    "timezone"
+  ],
+  "author": "Marcelo Entraigas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entraigas/jstz/issues"
+  },
+  "homepage": "https://github.com/entraigas/jstz#readme"
+}
